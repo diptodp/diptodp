@@ -2,7 +2,8 @@
 # 💫 About Me:
 I'm a software engineer who is passionate about coding and developing web applications and an undergrad student of Computer Science and Engineering at North South University. My interest in IOT devices. In my free time I like to play video game.
 
-Know more about me:
+Know more about me.
+
 [ https://www.diptodattapappu.me/ ]
 
 
