@@ -2,6 +2,9 @@
 # 💫 About Me:
 I'm a software engineer who is passionate about coding and developing web applications and an undergrad student of Computer Science and Engineering at North South University. My interest in IOT devices. In my free time I like to play video game.
 
+Know more about me:
+[ https://www.diptodattapappu.me/ ]
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/dkSrbQUH) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DiptoDatta121) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipto_d_pappu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipto-datta-pappu-019694199) 
