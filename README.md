@@ -4,7 +4,7 @@ I'm a software engineer who is passionate about coding and developing web applic
 
 Know more about me:
 
-[ https://www.diptodattapappu.me/ ]
+[ https://www.diptodattapappu.com/ ]
 
 
 ## 🌐 Socials:
